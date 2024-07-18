@@ -1,4 +1,4 @@
-![Foto](../images.jpg "Фотография")
+![Foto](../Image.jpg "Фотография")
 
 ## **My first and last name: Aleksandr Anisimov**
 
@@ -8,12 +8,12 @@ Now I'm studying at RSSchool to become a Front-end developer. And although I sti
 
 ## **When I finish studying, I will definitely get a job in my new specialty.**
 
-# [My proect]()
+# [My project](https://stereos21-git.github.io/rsschool-cv/cv)
 
-* ##Contacts:
-    * Discord - Александр А.(@stereos21-git)
-    * Telegram - @stereos21
-    * WhatsApp - +7-931-220-15-53
-    * Ph.Nom.: - +381616592316
-
+ - ## Contacts:
+    - Discord - Александр А.(@stereos21-git)
+    - Telegram - @stereos21
+    - WhatsApp - +7-931-220-15-53
+    - Ph.Nom.: - +381616592316
+:trollface:
 >
