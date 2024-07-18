@@ -1,4 +1,4 @@
-![Foto](../Image.jpg "Фотография")
+![Foto](Image.jpg "Фотография")
 
 ## **My first and last name: Aleksandr Anisimov**
 
