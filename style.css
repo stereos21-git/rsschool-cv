@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(60, 60, 60);
+}
+
+.body-container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.nav-container {
+    display: flex;
+    list-style: none;
+    /* gap: 1px; */
+    justify-content: space-between;
+    padding: 20px 30px 20px;
+    margin: 0;
+    color: bisque;
+    
+}
+
+body {
+    margin: 0;
+}   
