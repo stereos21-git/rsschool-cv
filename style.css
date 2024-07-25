@@ -28,3 +28,35 @@ body {
     align-items: center;
     font-variant: small-caps;
 }
+
+.my-foto {
+    width: 50%;
+}
+
+.summary-container {
+    display: flex;
+    align-items: center;
+    background-color: bisque;
+    border-bottom: 5px solid  rgb(60, 60, 60);
+}
+
+.summary {
+    font-size: 28px;
+    padding: 0 25px 0;
+    color: rgb(60, 60, 60);
+    margin: 0;
+    line-height: 1.5;
+}
+
+.visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    border: 0;
+    padding: 0;
+    white-space: nowrap;
+    clip-path: inset(100%);
+    clip: rect(0 0 0 0);
+    overflow: hidden;
+}
