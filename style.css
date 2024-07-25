@@ -60,3 +60,21 @@ body {
     clip: rect(0 0 0 0);
     overflow: hidden;
 }
+
+/* Начало основного блока */
+
+.colors {
+    background-color: bisque;
+    color: rgb(60, 60, 60);
+    padding-top: 5px;
+    padding-left: 30px;
+}
+
+.heading-2 {
+    font-size: 30px;
+}
+
+.secondary-list {
+    font-size: 22px;
+}
+
