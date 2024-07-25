@@ -1,5 +1,6 @@
 body {
     background-color: rgb(60, 60, 60);
+    margin: 0;
 }
 
 .body-container {
@@ -15,9 +16,15 @@ body {
     padding: 20px 30px 20px;
     margin: 0;
     color: bisque;
-    
-}
+    }
 
-body {
+.heading-1 {
+    display: flex;
+    justify-content: center;
+    background-color: bisque;
+    color: rgb(60, 60, 60);
     margin: 0;
-}   
+    height: 58px;
+    align-items: center;
+    font-variant: small-caps;
+}
