@@ -1,0 +1,131 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: rgb(60, 60, 60);
+    margin: 0;
+}
+
+.body-container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.nav-container {
+    display: flex;
+    list-style: none;
+    /* gap: 1px; */
+    justify-content: space-between;
+    padding: 20px 30px 20px;
+    margin: 0;
+    color: bisque;
+    }
+
+.link-header {
+    color: bisque;
+    text-decoration: none;
+}
+
+.heading-1 {
+    display: flex;
+    justify-content: center;
+    background-color: bisque;
+    color: rgb(60, 60, 60);
+    margin: 0;
+    height: 58px;
+    align-items: center;
+    font-variant: small-caps;
+}
+
+.my-foto {
+    width: 50%;
+}
+
+.summary-container {
+    display: flex;
+    align-items: center;
+    background-color: bisque;
+    border-bottom: 5px solid  rgb(60, 60, 60);
+}
+
+.summary {
+    font-size: 28px;
+    padding: 0 25px 0;
+    color: rgb(60, 60, 60);
+    margin: 0;
+    line-height: 1.5;
+}
+
+.visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    border: 0;
+    padding: 0;
+    white-space: nowrap;
+    clip-path: inset(100%);
+    clip: rect(0 0 0 0);
+    overflow: hidden;
+}
+
+/* Начало основного блока */
+
+.colors {
+    background-color: bisque;
+    color: rgb(60, 60, 60);
+    padding-top: 15px;
+    padding-left: 30px;
+}
+
+.colors:last-of-type {
+    padding-bottom: 20px;
+}
+
+.heading-2 {
+    font-size: 30px;
+}
+
+.secondary-list {
+    font-size: 22px;
+    margin: 0;
+}
+
+pre {
+    margin: 0;
+}
+
+.link {
+    text-decoration: none;
+}
+
+/* Начало подвала */
+
+.rs-school-logo {
+    width: 100px;
+    background-color: bisque;
+}
+
+.container-footer {
+    display: flex;
+    justify-content: space-around;
+}
+
+.link-footer {
+    font-size: 22px;
+    color: bisque;
+    margin-top: 6px;
+}
+
+.year {
+    font-size: 24px;
+    color: aliceblue;
+    margin: 50px 0 10px 50px;
+}
+
+.footer-adress {
+    color: bisque;
+    text-align: center;
+    list-style: none;
+}
