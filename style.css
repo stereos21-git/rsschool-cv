@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     background-color: rgb(60, 60, 60);
     margin: 0;
@@ -17,6 +21,11 @@ body {
     margin: 0;
     color: bisque;
     }
+
+.link-header {
+    color: bisque;
+    text-decoration: none;
+}
 
 .heading-1 {
     display: flex;
@@ -70,6 +79,10 @@ body {
     padding-left: 30px;
 }
 
+.colors:last-of-type {
+    padding-bottom: 20px;
+}
+
 .heading-2 {
     font-size: 30px;
 }
@@ -87,3 +100,32 @@ pre {
     text-decoration: none;
 }
 
+/* Начало подвала */
+
+.rs-school-logo {
+    width: 100px;
+    background-color: bisque;
+}
+
+.container-footer {
+    display: flex;
+    justify-content: space-around;
+}
+
+.link-footer {
+    font-size: 22px;
+    color: bisque;
+    margin-top: 6px;
+}
+
+.year {
+    font-size: 24px;
+    color: aliceblue;
+    margin: 50px 0 10px 50px;
+}
+
+.footer-adress {
+    color: bisque;
+    text-align: center;
+    list-style: none;
+}
